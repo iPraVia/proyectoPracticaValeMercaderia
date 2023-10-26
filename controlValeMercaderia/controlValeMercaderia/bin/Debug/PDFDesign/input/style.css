@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 80mm;
+}
+header {
+    width: 80mm;
+    display: inline-block;
+}
+
+.container {
+    display: flex;
+}
+
+.logo{
+    width: 23mm;
+    margin-top: 3mm;
+    margin-left: 1mm;
+    margin-right: 1mm;
+}
+.logo img{
+    height: 6mm;
+}
+
+.tramo {
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 21pt;
+    padding: 1mm;
+    margin-top: 1mm;
+    margin-left: 9mm;
+    width: 9mm;
+}
+
+.fecha {
+    margin-top: 4mm;
+    margin-left: 9mm;
+    font-size: 13pt;
+    width: 33mm;
+}
+
+.monto {
+    text-align: center;
+    margin-top: 3mm;
+    width: 80mm;
+    text-transform: uppercase;
+}
+.monto h3 {
+    font-size: 21pt;
+}
+
+.trabajador {
+    margin-top: 3mm;
+    margin-left: 3mm;
+    font-size: 21p;
+}
+
+.mensaje {
+    text-align: center;
+    font-size: 6pt;
+    margin-top: 3mm;
+    padding: 3mm;
+    width: 66mm;
+}
+
+footer {
+    width: 80mm;
+}
+
+.codigos {
+    display: flex;
+}
+.codigos article img {
+    height: 11mm;
+    margin-left: 9mm;
+    margin-right: 6mm;
+    margin-top: 3mm;
+}
+
+.codigos div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 1mm solid red;
+}
+.codigos div img {
+    height: 11mm;
+    width: 17mm;
+}
+
+.dimak {
+    margin-top: 3mm;
+    text-align: center;
+}
+
+.vencimiento{
+    margin-top: 3mm;
+    margin-bottom: 3mm;
+    text-align: center;
+}

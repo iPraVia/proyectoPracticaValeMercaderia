@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\bin\Debug\controlValeMercaderia.exe.config
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\bin\Debug\controlValeMercaderia.exe
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\bin\Debug\controlValeMercaderia.pdb
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.Form1.resources
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.Properties.Resources.resources
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.exe
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.pdb
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\bin\Debug\zxing.dll
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\bin\Debug\zxing.presentation.dll
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\bin\Debug\zxing.xml
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\bin\Debug\zxing.presentation.xml
+C:\Users\Usuario\source\repos\controlValeMercaderia\controlValeMercaderia\obj\Debug\controlValeMercaderia.csproj.CopyComplete
