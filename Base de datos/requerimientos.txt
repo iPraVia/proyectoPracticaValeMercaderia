@@ -1,0 +1,7 @@
+Instrucciones
+
+Requerimientos
+- Tener instalado Microsoft SQL Server Management Studio 19
+
+Intalación
+-Abrir ScriptForCreation.sql con Microsoft SQL Server Management Studio 19
