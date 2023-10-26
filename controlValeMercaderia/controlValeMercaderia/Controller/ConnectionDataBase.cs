@@ -1,19 +1,14 @@
-﻿using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Windows.Forms;
-using System;
-
-namespace controlValeMercaderia.Controller
+﻿namespace controlValeMercaderia.Controller
 {
     internal class ConnectionDataBase
     {
-        private const string dataSource = "DESKTOP-FP72OS2\\SQLEXPRESS";
-        private const string initialCatalog = "valeMercaderia_Dimak";
-        private const string user = "sa";
-        private const string password = "admin";  
+        private const string dataSource = "Tu_Data_Source";
+        private const string initialCatalog = "Tu_Initial_Catalog";
+        private const string user = "Tu_User";
+        private const string password = "Tu_Password";  
 
 
-        public ConnectionDataBase() {
+        private ConnectionDataBase() {
         }
         public static string getConnectionString()
         {
